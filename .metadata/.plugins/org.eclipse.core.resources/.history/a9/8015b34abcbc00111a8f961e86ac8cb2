@@ -1,0 +1,5 @@
+package com.example.corsapi.controller;
+
+public class ProfileController {
+
+}
